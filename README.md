@@ -1,4 +1,4 @@
-# OS-Linux-commands-Shell-scripting
+<img width="334" height="221" alt="image" src="https://github.com/user-attachments/assets/1bc60910-4991-4c2a-bb83-00939c7b5614" /># OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
@@ -43,23 +43,29 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
+<img width="195" height="114" alt="image" src="https://github.com/user-attachments/assets/bb0ce661-a5ac-4531-9673-5007563dfc6e" />
 
 
 cat < file2
 ## OUTPUT
 
+<img width="203" height="128" alt="image" src="https://github.com/user-attachments/assets/26f0f5db-b2d3-40c6-87f3-86b9b57246b7" />
+
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+ <img width="325" height="67" alt="image" src="https://github.com/user-attachments/assets/b0d246f1-390d-4b38-949f-676c0ea469e9" />
+
 comm file1 file2
  ## OUTPUT
+<img width="334" height="221" alt="image" src="https://github.com/user-attachments/assets/d777266b-a28f-4c77-b54d-0d003457ddde" />
 
  
 diff file1 file2
 ## OUTPUT
 
+<img width="311" height="213" alt="image" src="https://github.com/user-attachments/assets/9f42d7bd-afb2-4988-b30b-a2089ecb745e" />
 
 #Filters
 
